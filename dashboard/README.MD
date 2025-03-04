@@ -36,4 +36,4 @@ A modern, dark-themed admin dashboard built with HTML, CSS, and JavaScript. Desi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/darkpan-dashboard.git
+   git clone https://github.com/MinhajLahith2002/dark-dashboard.git
