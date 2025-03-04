@@ -1,6 +1,6 @@
 # DarkPan Admin Dashboard 📊💻
 
-![Dashboard Preview](screenshot.png) <!-- Add actual screenshot later -->
+![Dashboard Preview](screenshot.png) 
 
 A modern, dark-themed admin dashboard built with HTML, CSS, and JavaScript. Designed for efficient data visualization and management with a sleek interface.
 
